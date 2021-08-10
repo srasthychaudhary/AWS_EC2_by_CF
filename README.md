@@ -1,4 +1,4 @@
-AWS EC2 Instance Template by Cloud Formation
+**AWS EC2 Instance Template by Cloud Formation**
 
 We’ll look at CloudFormation templates to create EC2 instances in their own VPC.
 
