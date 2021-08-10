@@ -2,7 +2,7 @@
 
 We’ll look at CloudFormation templates to create EC2 instances in their own VPC.
 
-Step-1: PAPAMETERS
+Step-1: PARAMETERS
 
 Any values that might be customized by the end user are defined as parameters.
 
